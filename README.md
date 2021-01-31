@@ -1,3 +1,3 @@
-# Aozaki-Club.github.io
-
-首页
+# 说明
+这是用HTML糊的框架，可用于基于GitHub搭建静态网页。
+教程会不久后更新
